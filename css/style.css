@@ -43,5 +43,5 @@ ul.navbar-icons i {padding: 8px 12px; cursor: pointer;}
     .navbar-menu.active,
     .navbar-icons.active {display: flex;}
     /*map*/
-    #contents iframe {height: 450px;}
+    #contents iframe {height: 100vh;}
 }
